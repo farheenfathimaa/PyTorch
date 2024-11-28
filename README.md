@@ -29,7 +29,7 @@ The repository is organized for ease of use:
 
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/farheenfathimaa/PyTorch>
+   git clone <https://github.com/farheenfathimaa/PyTorch.git>
    ```
 2. Open the notebooks in Google Colab or your preferred environment.
 3. Follow along with the video and notes for a comprehensive learning experience.
