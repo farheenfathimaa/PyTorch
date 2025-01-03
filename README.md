@@ -34,4 +34,4 @@ The repository is organized for ease of use:
 2. Open the notebooks in Google Colab or your preferred environment.
 3. Follow along with the video and notes for a comprehensive learning experience.
 
-# Happy learning!
+### *Happy learning!*
